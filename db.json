@@ -1,0 +1,260 @@
+{
+  "cocktails": [
+    {
+      "id": 1,
+      "name": "Bloody Mary",
+      "image": "https://www.liquor.com/thmb/FJsfsKERQS_Yd8PjetW9nDZyx4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bloody-mary-720x720-primary-28cf1aaa79d0424d951901fcc0a42e91.jpg",
+      "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+      "favorite": false,
+      "ingredients": [
+        "4.5 cl (3 parts) vodka",
+        "9 cl (6 parts) Tomato juice",
+        "1.5 cl (1 part) Lemon juice",
+        "2 to 3 dashes of Worcestershire Sauce",
+        "Tabasco sauce",
+        "Celery salt",
+        "Black pepper"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Moscow Mule",
+      "image": "https://www.liquor.com/thmb/zLQlZDdAdFZChTkVsNNF-yfm3q4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__03__07152853__moscow-mule-720x720-recipe-61ce552013b04880901b2abfb63017fd.jpg",
+      "instructions": "Stir vodka, and lime over ice. Top with ginger beer.",
+      "favorite": true,
+      "ingredients": [
+        "2 oz Vodka",
+        "1 oz Lime juice",
+        "6 oz Ginger beer"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mojito",
+      "image": "https://www.liquor.com/thmb/MJRVqf-itJGY90nwUOYGXnyG-HA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mojito-720x720-primary-6a57f80e200c412e9a77a1687f312ff7.jpg",
+      "instructions": "Muddle lime wedges. Muddle mint lightly. Add ice, syrup, rum. Shake, fine strain into glass with more ice. Top with club soda, garnish with additional lime wedge and mint sprig.",
+      "favorite": true,
+      "ingredients": [
+        "4 wdg Lime (1/2 lime)",
+        "1 spg Mint",
+        "2 oz Light rum",
+        "1 oz Simple syrup (or 2 tsp sugar)",
+        "2 oz Club soda (to top)",
+        "1 spg Mint (as garnish)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Whiskey Sour",
+      "image": "https://www.liquor.com/thmb/6WtVdTd2kWYfI06d_wzmntoPf1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/whiskey-sour-720x720-primary-v2-4fc831b613964da5a19cdbfda917d7df.jpg",
+      "instructions": "Shake with ice. Strain into chilled glass, garnish and serve.",
+      "favorite": false,
+      "ingredients": [
+        "4.5 cl (3 parts) bourbon whiskey",
+        "3 cl (2 parts) fresh lemon juice",
+        "1.5 cl (1 part) simple syrup"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Old Fashioned",
+      "image": "https://www.liquor.com/thmb/wm9ICT4sskWaeUONYmoCqiTEjLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+      "instructions": "Wet sugar cube with bitters and a dash of soda or water in an old fashioned glass, muddle, add ice and whiskey, stir to dissolve thoroughly, garnish",
+      "favorite": true,
+      "ingredients": [
+        "3 oz Bourbon (or rye)",
+        "1 cube Sugar (or 1 tsp simple syrup)",
+        "3 ds Bitters, Angostura",
+        "1 twst Lemon peel (as garnish)"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Strawberry Daiquiri",
+      "image": "https://www.liquor.com/thmb/vqHuoX0rg8kLX5ccAnYeeKiv61M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/strawberry-daquiri-720x720-primary-468d4f031af042048c8a20e271d30a1a.jpg",
+      "instructions": "Shake, double strain, chilled coupe, no garnish.",
+      "favorite": false,
+      "ingredients": [
+        "1 1/2 oz Light rum",
+        "1 oz Lime juice",
+        "1/2 oz Simple syrup (1:1)",
+        "1 T Strawberry preserves",
+        "1 dr Orange flower water"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Margarita",
+      "image": "https://assets.bonappetit.com/photos/5b69f16006027f654a27cd19/1:1/w_2560%2Cc_limit/ba-margarita-1.jpg",
+      "instructions": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass.",
+      "favorite": false,
+      "ingredients": [
+        "50 ml tequila 100% agave",
+        "20 ml triple sec",
+        "15 ml freshly squeezed lime juice"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mai Tai",
+      "image": "https://www.liquor.com/thmb/jQruk7gq4G3tZJ98eL93QXmT02A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__08__10101652__mai-tai-720x720-recipe-862a7d603e7e4e57a9ca95caee98a4a6.jpg",
+      "instructions": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.",
+      "favorite": true,
+      "ingredients": [
+        "30 ml amber Jamaican rum",
+        "30 ml Martinique molasses rum",
+        "15 ml orange curacao",
+        "15 ml orgeat syrup",
+        "30 ml fresh lime juice",
+        "7.5 ml simple syrup"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Long Island Iced Tea",
+      "image": "https://www.liquor.com/thmb/oUB-ms9XWSaAhG3-YEcmx4beXXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__03__14090749__Long-Island-Iced-Tea-720x720-article-272623f47e80457594178a552f708068.jpg",
+      "instructions": "Add all ingredients into highball glass filled with ice. Stir gently. Optionally garnish with lemon slice.",
+      "favorite": false,
+      "ingredients": [
+        "15 ml Tequila",
+        "15 ml Vodka",
+        "15 ml White rum",
+        "15 ml Cointreau",
+        "15 ml Gin",
+        "30 ml Lemon juice",
+        "20 ml simple syrup",
+        "Top with Cola"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Piña Colada",
+      "image": "https://www.liquor.com/thmb/xcDUOpwXWVnbOfTvJ0uHWElVawE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__02__13090826__pina-colada-720x720-recipe-253f1752769447f6998afd2b9469c24e.jpg",
+      "instructions": "Blend all the ingredients with ice in an electric blender, pour into a large goblet or Hurricane glass and serve.",
+      "favorite": false,
+      "ingredients": [
+        "5 parts white rum",
+        "3 parts coconut cream",
+        "5 parts fresh pineapple juice"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Negroni",
+      "image": "https://www.liquor.com/thmb/cmNLcCCoKU-r_OSvAahfo3Ho4D4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kingston-negroni-720x720-primary1-ef87562fea8240de92dd09c36457a8c2.jpg",
+      "instructions": "Stir into glass over ice, garnish and serve.",
+      "favorite": false,
+      "ingredients": [
+        "3 cl gin",
+        "3 cl sweet red vermouth",
+        "3 cl Campari"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dry Martini",
+      "image": "https://www.liquor.com/thmb/TiIfuripVmSK3TLWtRhKsLkU_Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dry-martini-720x720-primary-a6de08f8cd584ad88520287922578bcb.jpg",
+      "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+      "favorite": false,
+      "ingredients": [
+        "60 ml gin",
+        "10 ml dry vermouth"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Aperol Spritz",
+      "image": "https://www.liquor.com/thmb/1ZharnCZtEmyUkKfEm8dh07MV8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/aperol-spritz-720x720-primary-985457b239d7427da2f8b4be17131caa.jpg",
+      "instructions": "Build all ingredients into a wine glass filled with ice. Stir gently.",
+      "favorite": true,
+      "ingredients": [
+        "9 cl Prosecco",
+        "6 cl Select/Aperol/Campari/Cynar",
+        "Splash of soda water"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Manhattan",
+      "image": "https://www.liquor.com/thmb/ePeDi1cxFU8mvoIX-xCEiI4lUOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__10144903__Manhattan-720x720-recipe-9497922907c14d91898f557cb51f2ea3.jpg",
+      "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+      "favorite": false,
+      "ingredients": [
+        "50 ml Rye whiskey",
+        "20 ml Sweet red vermouth",
+        "1 dash Angostura bitters"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Gin Fizz",
+      "image": "https://www.liquor.com/thmb/WoSE0dt8bFq_cWdaYwcEKNe7L_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gin-fizz-720x720-primary-v3-2c1390963d014e35a01d741df2f9ae77.jpg",
+      "instructions": "Shake all ingredients except the soda water WITHOUT ICE very vigorously for at least one minute, preferably longer -- the longer the better. Then add ice and shake for 1-2 minutes, as long as you can manage, until extremely cold and frothy. Strain into a tall thin glass (no ice), or a very large old fashioned glass, and top with soda water. Stir gently.",
+      "favorite": false,
+      "ingredients": [
+        "2 oz Old Tom Gin (or Plymouth)",
+        "1/2 oz Lemon juice",
+        "1/2 oz Lime juice",
+        "1 oz Simple syrup",
+        "3 dr Orange flower water",
+        "2 dr Vanilla extract (very optional)",
+        "1 oz Cream",
+        "1 oz Egg white",
+        "1 spl Soda water"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Cosmopolitan",
+      "image": "https://www.liquor.com/thmb/_UVfpRFdOZiplj9WNxsOAWvNQjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cosmopolitan-720x720-primary-0190d40114c741648979dae7e46b6bbf.jpg",
+      "instructions": "Shake all ingredients in cocktail shaker filled with ice. Strain into a large cocktail glass. Garnish with lime slice.",
+      "favorite": false,
+      "ingredients": [
+        "4 cl Vodka Citron",
+        "1.5 cl Cointreau",
+        "1.5 cl Fresh lime juice",
+        "3 cl Cranberry juice"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "French 75",
+      "image": "https://www.liquor.com/thmb/sqGcYM63f4iHWrf730_vA7oB8sM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/french-75-720x720-primary-17fc1ce34c0a49e2ad60eb4a5705c6a2.jpg",
+      "instructions": "Shake all but wine, strain into ice-filled highball glass, top with chilled wine.",
+      "favorite": false,
+      "ingredients": [
+        "2 oz Gin (or cognac)",
+        "1 oz Lemon juice",
+        "1 oz Simple syrup",
+        "3 oz Sparkling white wine (Brut, chilled)",
+        "1 twst Lemon zest"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bee's Knees",
+      "image": "https://www.liquor.com/thmb/gDR4FllfayREculTfjHPHz7riO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Bees-Knees-720x720-recipe-793ad392c79043b9b23d6cac075eb0e9.jpg",
+      "instructions": "Stir honey syrup with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into chilled cocktail glass",
+      "favorite": false,
+      "ingredients": [
+        "52.5 ml dry gin",
+        "22.5 ml lemon juice",
+        "22.5 ml orange juice",
+        "2 teaspoons honey syrup"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Tom Collins",
+      "image": "https://www.liquor.com/thmb/IpHpqIkbwNey1tbc3l0qPxuD6bI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__03080950__Tom-Collins-720x720-recipe-e87bf7954cdb4438b5e8d21f568cdd6f.jpg",
+      "instructions": "Mix the gin, lemon juice and sugar syrup in a tall glass with ice, top up with soda water, garnish and serve.",
+      "favorite": false,
+      "ingredients": [
+        "4.5 cL (3 parts) Old Tom Gin",
+        "3 cL (2 parts) freshly squeezed lemon juice",
+        "1.5 cL (1 part) sugar syrup",
+        "6 cL (4 parts) carbonated water to taste"
+      ]
+    }
+  ]
+}
